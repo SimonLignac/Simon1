@@ -16,6 +16,7 @@ int main() {
 
     cout << "Le resultat est : " << resultat << endl;
     cout << "Bonjour Simon le goat" << endl;
+    cout << "Bonjour Steeve le goat" << endl;
 
     return 0;
 }
