@@ -1,1 +1,1 @@
-Simon le giga goat
+Simon le goat
