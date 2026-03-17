@@ -15,6 +15,7 @@ int main() {
     int resultat = addition(x, y);
 
     cout << "Le resultat est : " << resultat << endl;
+    cout << "Bonjour Simon le goat" << endl;
 
     return 0;
 }
